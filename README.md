@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Anuska 👋
+🎓 MSc Mathematics & Computing | 📊 Data Analyst Enthusiast  
+🔍 I love solving real-world problems with data using Python, SQL, and Power BI.
 
-<!--
-**Anuska-06/Anuska-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 
+ What I’m working on:
+- 🧾 Power BI Dashboards using the 911 Emergency Dataset  
+- 🤖 Machine Learning model to predict Mental Health Treatment  
+- 📈 Advanced SQL case studies on user analytics and business growth  
 
-Here are some ideas to get you started:
+#### 📌 Featured Projects
+- [🚨 911 Emergency Dashboard (Power BI)](https://github.com/Anuska-06/911-PowerBI)
+- [🧠 Mental Health ML Classifier](https://github.com/Anuska-06/Mental-Health-ML)
+- [🚢 Titanic Survival Analysis (Python)](https://github.com/Anuska-06/Titanic-Project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Tools & Skills
+Python | SQL | Pandas | Power BI | Excel | Machine Learning
+
+Let’s collaborate on data-driven solutions 🚀
